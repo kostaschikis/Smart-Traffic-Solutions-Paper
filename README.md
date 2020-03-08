@@ -1,4 +1,4 @@
-# [Smart Traffic Solutions for Traffic Congestion and Emissions Reduction](https://docdro.id/HCokmix)
+# [Smart Traffic Solutions for Traffic Congestion and Emissions Reduction 🔗](https://docdro.id/HCokmix)
 
 ![Cover](img/cover.png)
 
@@ -38,3 +38,5 @@ In conclusion, these analyses showed that smart traffic management systems drast
 - [The Future of Smart Traffic](https://www.docdroid.net/HCokmix/smart-traffic-solutions-for-traffic-congestion-and-emissions-reduction.pdf#page=54)
 - [Conclusion](https://www.docdroid.net/HCokmix/smart-traffic-solutions-for-traffic-congestion-and-emissions-reduction.pdf#page=55)
 - [References](https://www.docdroid.net/HCokmix/smart-traffic-solutions-for-traffic-congestion-and-emissions-reduction.pdf#page=56)
+
+## [PowerPoint Presentation 🔗](https://docdro.id/qSzodKE)
