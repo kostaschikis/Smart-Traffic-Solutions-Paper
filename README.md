@@ -10,13 +10,11 @@ In conclusion, these analyses showed that smart traffic management systems drast
 
 ## Table of Contents
 
-<details>
-    <summary>The Problem</summary>
-    <p>Climate Crisis</p>
-    <p>Greenhouse Gasses</p>
-    <p>The Urbanazation Problem</p>
-    <p>Urban Mobility</p>
-    <p>Congestion</p>
-    <p>Air Pollution & CO2</p>
-    <p>Overall</p>
-</details>
+- [The Problem](https://www.docdroid.net/HCokmix/smart-traffic-solutions-for-traffic-congestion-and-emissions-reduction.pdf#page=4)
+    - [Climate Crisis](https://www.docdroid.net/HCokmix/smart-traffic-solutions-for-traffic-congestion-and-emissions-reduction.pdf#page=5)
+    - [Greenhouse Gasses](https://www.docdroid.net/HCokmix/smart-traffic-solutions-for-traffic-congestion-and-emissions-reduction.pdf#page=6)
+    - [The Urbanazation Problem](https://www.docdroid.net/HCokmix/smart-traffic-solutions-for-traffic-congestion-and-emissions-reduction.pdf#page=8)
+    - [Urban Mobility](https://www.docdroid.net/HCokmix/smart-traffic-solutions-for-traffic-congestion-and-emissions-reduction.pdf#page=12)
+    - [Congestion](https://www.docdroid.net/HCokmix/smart-traffic-solutions-for-traffic-congestion-and-emissions-reduction.pdf#page=13)
+    - [Air Pollution & CO2](https://www.docdroid.net/HCokmix/smart-traffic-solutions-for-traffic-congestion-and-emissions-reduction.pdf#page=14)
+    - [Overall](https://www.docdroid.net/HCokmix/smart-traffic-solutions-for-traffic-congestion-and-emissions-reduction.pdf#page=15)
